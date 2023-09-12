@@ -1,0 +1,27 @@
+{
+  "name": "multi-token",
+  "version": "1.0.0",
+  "description": "sample erc1155 multi token standard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulBless/ERC-1155-Multi-Token.git"
+  },
+  "keywords": [
+    "erc1155"
+  ],
+  "author": "PaulBless",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulBless/ERC-1155-Multi-Token/issues"
+  },
+  "homepage": "https://github.com/PaulBless/ERC-1155-Multi-Token#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.17.3",
+    "@openzeppelin/contracts": "^4.9.3"
+  }
+}
